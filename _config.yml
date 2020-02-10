@@ -1,0 +1,11 @@
+theme: jekyll-theme-hacker
+title: Azure IoT Workshop | Quality Assurance
+description: End-to-end IoT workshop focusing on a quality assurance scenario powered by computer vision and AI.
+twitter:
+  username: kartben
+  card: summary_large_image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: assets/twitter-card.png
