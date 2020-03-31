@@ -272,4 +272,4 @@ Observe in particular:
 
 If you've reached this point, you should now be familiar with the remote operation of a device running Azure IoT Edge from IoT Central.
 
-In the [next section](../step-step-004-train-and-deploy-vision-ai/) we will be going further by training our own computer vision model—this time targeted at soda cans!— and remotely deploying it to our Jetson Nano.
+In the [next section](../step-004-train-and-deploy-vision-ai/) we will be going further by training our own computer vision model—this time targeted at soda cans!— and remotely deploying it to our Jetson Nano.
