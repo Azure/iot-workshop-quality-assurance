@@ -26,7 +26,7 @@ We'll build our own AI model with [Azure Custom Vision](https://www.customvision
 1. [Setting up an NVIDIA Jetson Nano and installing Azure IoT Edge](step-001-setting-up-iot-edge/)
 2. [Setting up an IoT Central application for video analytics](step-002-provisioning-iot-central-app/)
 3. [Remotely operating the solution](step-003-remotely-operating/)
-4. [Training and deploying a custom AI model for detecting visual anomalies](step-004-training-and-deploying-vision-ai/)
+4. [Training and deploying a custom AI model for detecting visual anomalies](step-004-train-and-deploy-vision-ai/)
 5. [Sending alerts](step-005-sending-alerts/)
 
 ## Supporting slide deck
